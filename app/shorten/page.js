@@ -94,7 +94,7 @@ function Page() {
                 href={`/${Generated}`}
                 className="text-blue-900 hover:underline"
               >
-                http://localhost:3000/{Generated}
+                https://shortenurl-pied.vercel.app/{Generated}
               </a>{" "}
             </div>
           )}
